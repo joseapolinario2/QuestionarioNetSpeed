@@ -1,0 +1,5 @@
+a - Não é possível formar um triângulo
+b - Triângulo Escaleno
+c - Não é possível formar um triângulo
+d - Triângulo equilátero
+e - Não é possível formar um triângulo
