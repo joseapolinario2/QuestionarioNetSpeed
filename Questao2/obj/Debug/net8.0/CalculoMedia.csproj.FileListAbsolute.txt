@@ -1,0 +1,14 @@
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\bin\Debug\net8.0\CalculoMedia.exe
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\bin\Debug\net8.0\CalculoMedia.deps.json
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\bin\Debug\net8.0\CalculoMedia.runtimeconfig.json
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\bin\Debug\net8.0\CalculoMedia.dll
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\bin\Debug\net8.0\CalculoMedia.pdb
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.AssemblyInfo.cs
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.dll
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\refint\CalculoMedia.dll
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.pdb
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\CalculoMedia.genruntimeconfig.cache
+C:\Users\josea\source\repos\ConsoleApp1\CalculoMedia\obj\Debug\net8.0\ref\CalculoMedia.dll

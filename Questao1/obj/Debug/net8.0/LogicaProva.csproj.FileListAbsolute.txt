@@ -1,0 +1,14 @@
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\bin\Debug\net8.0\LogicaProva.exe
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\bin\Debug\net8.0\LogicaProva.deps.json
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\bin\Debug\net8.0\LogicaProva.runtimeconfig.json
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\bin\Debug\net8.0\LogicaProva.dll
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\bin\Debug\net8.0\LogicaProva.pdb
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.AssemblyInfo.cs
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.dll
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\refint\LogicaProva.dll
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.pdb
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\LogicaProva.genruntimeconfig.cache
+C:\Users\josea\source\repos\ConsoleApp1\LogicaProva\obj\Debug\net8.0\ref\LogicaProva.dll
